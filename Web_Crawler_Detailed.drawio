@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T22:35:40.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ugxr0ZZ-yMVMhG-30tgV" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T22:37:01.072Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NmrR0kVEYC_Zig_L-wjv" version="24.6.4" type="github">
   <diagram name="Page-1" id="mXdpcqNhNkEFS_v_mtUm">
     <mxGraphModel dx="954" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -257,7 +257,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ikfy1jm3SxkshJAuReZf-72" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;rowLines=1;columnLines=1;fixedRows=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1310" width="230" height="170" as="geometry" />
+          <mxGeometry x="830" y="1310" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ikfy1jm3SxkshJAuReZf-77" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Ikfy1jm3SxkshJAuReZf-72">
           <mxGeometry width="230" height="50" as="geometry" />
@@ -310,6 +310,18 @@
           <mxGeometry x="115" width="115" height="40" as="geometry">
             <mxRectangle width="115" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ikfy1jm3SxkshJAuReZf-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ikfy1jm3SxkshJAuReZf-100" target="Ikfy1jm3SxkshJAuReZf-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ikfy1jm3SxkshJAuReZf-100" value="Priority" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="790" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Ikfy1jm3SxkshJAuReZf-101" value="Politeness" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1200" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Ikfy1jm3SxkshJAuReZf-104" value="Output Urls from Prioritzer sent to Politeness" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1168" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
