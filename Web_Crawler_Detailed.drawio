@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T17:38:46.852Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xlmBNIiXa3CBT_m9kfMt" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T17:41:54.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4VefW0TlEUtWjDF3APSR" version="24.6.4" type="github">
   <diagram name="Page-1" id="mXdpcqNhNkEFS_v_mtUm">
     <mxGraphModel dx="1537" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,6 +46,12 @@
         <mxCell id="9qcMBNV77gLtWxYR_MMO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9qcMBNV77gLtWxYR_MMO-15" target="9qcMBNV77gLtWxYR_MMO-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9qcMBNV77gLtWxYR_MMO-15" target="dUaV9D5BhhCe_MBrg--o-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="9qcMBNV77gLtWxYR_MMO-15" target="dUaV9D5BhhCe_MBrg--o-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9qcMBNV77gLtWxYR_MMO-15" value="Content Seen?&lt;div&gt;Hash Compare&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="120" width="110" height="60" as="geometry" />
         </mxCell>
@@ -68,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9qcMBNV77gLtWxYR_MMO-22" value="URL Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9qcMBNV77gLtWxYR_MMO-23" value="7 - Extract all the URLS from the content" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="190" width="240" height="30" as="geometry" />
@@ -77,7 +83,7 @@
           <mxGeometry x="585" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9qcMBNV77gLtWxYR_MMO-25" value="8 - Check for broken / malicious links" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="300" width="220" height="30" as="geometry" />
+          <mxGeometry x="640" y="310" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qcMBNV77gLtWxYR_MMO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9qcMBNV77gLtWxYR_MMO-28" target="9qcMBNV77gLtWxYR_MMO-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -482,7 +488,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUaV9D5BhhCe_MBrg--o-48" value="PNG Downloader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.775;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9qcMBNV77gLtWxYR_MMO-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="219" as="sourcePoint" />
+            <mxPoint x="640" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="826" y="309" as="sourcePoint" />
+            <mxPoint x="826" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.775;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="826" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-54" value="Web Monitor&lt;div&gt;Trade mark checking, Authenticity of content&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
