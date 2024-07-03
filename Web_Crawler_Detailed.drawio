@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T17:33:53.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qh6v2W_WHMsdM4GNchIA" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T17:34:56.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VFEOyR7Zqdog62QygEJT" version="24.6.4" type="github">
   <diagram name="Page-1" id="mXdpcqNhNkEFS_v_mtUm">
     <mxGraphModel dx="1537" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -465,6 +465,12 @@
         </mxCell>
         <mxCell id="dUaV9D5BhhCe_MBrg--o-39" value="Save the crawl state and data lets say S1 crashes we add new server in its place then G1 must resume from where S1 left and not start from starting - Consitent Hashing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-55" y="2330" width="920" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-40" value="Log Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-41" value="To restart from the point of failure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="2120" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
