@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T17:42:17.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zuMXpYT0gusSx0bUNird" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T17:46:00.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AhDvXbYR71QhojRpUdCK" version="24.6.4" type="github">
   <diagram name="Page-1" id="mXdpcqNhNkEFS_v_mtUm">
     <mxGraphModel dx="1537" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="9qcMBNV77gLtWxYR_MMO-23" value="7 - Extract all the URLS from the content" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="190" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9qcMBNV77gLtWxYR_MMO-24" value="URL Filter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9qcMBNV77gLtWxYR_MMO-24" value="URL Filter&lt;div&gt;Spider Traps urls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9qcMBNV77gLtWxYR_MMO-25" value="8 - Check for broken / malicious links" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
