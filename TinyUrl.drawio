@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T22:41:44.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="d7HnV1ws7pIlONK4Sebu" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T22:41:53.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sxYA-cJvtHdhzu-6Y8GJ" version="24.6.4" type="github">
   <diagram name="Page-1" id="et8tMkmJSBQeN0szB0oO">
     <mxGraphModel dx="1777" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
           <mxGeometry x="355" y="25" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPBJRZcepa8U3YhvUR2p-89" value="Database can be shared based on the user_id, so a user would be&amp;nbsp;&lt;div&gt;mapped to the same shard and that shard would be containing all the urls belonging to that user&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="590" width="530" height="40" as="geometry" />
+          <mxGeometry x="-15" y="590" width="530" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
