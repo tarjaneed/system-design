@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T22:21:54.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q85yr24yKkgO_eCzF-Mk" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T22:22:54.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="emb2hlsm3FsirDvFrp6e" version="24.6.4" type="github">
   <diagram name="Page-1" id="et8tMkmJSBQeN0szB0oO">
     <mxGraphModel dx="1537" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,11 +46,14 @@
         <mxCell id="vPBJRZcepa8U3YhvUR2p-6" value="Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vPBJRZcepa8U3YhvUR2p-15" value="Creates Short URL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="190" width="120" height="30" as="geometry" />
+        <mxCell id="vPBJRZcepa8U3YhvUR2p-15" value="Sends Creates Short URL&amp;nbsp;&lt;div&gt;Request&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="180" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPBJRZcepa8U3YhvUR2p-18" value="createShortURL(long_url, user_id)&lt;div&gt;getShortUrl(long_url, user_id) returns short_url&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-185" y="25" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vPBJRZcepa8U3YhvUR2p-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vPBJRZcepa8U3YhvUR2p-19" target="vPBJRZcepa8U3YhvUR2p-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPBJRZcepa8U3YhvUR2p-19" value="URL Generator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="75" width="120" height="60" as="geometry" />
@@ -112,6 +115,11 @@
         <mxCell id="vPBJRZcepa8U3YhvUR2p-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vPBJRZcepa8U3YhvUR2p-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="220" />
+              <mxPoint x="510" y="220" />
+              <mxPoint x="510" y="225" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vPBJRZcepa8U3YhvUR2p-42" value="Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
