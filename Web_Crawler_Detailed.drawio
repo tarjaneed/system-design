@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T17:22:47.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5KDbesQw2F9CjTCxFKBQ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T17:25:13.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dednt4Y90kVb4IQFzRFc" version="24.6.4" type="github">
   <diagram name="Page-1" id="mXdpcqNhNkEFS_v_mtUm">
     <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -412,8 +412,8 @@
         <mxCell id="dUaV9D5BhhCe_MBrg--o-16" value="URls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dUaV9D5BhhCe_MBrg--o-19" value="HTML Downloader multiple&amp;nbsp;&lt;div&gt;instances handling subset of urls&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1763" width="200" height="40" as="geometry" />
+        <mxCell id="dUaV9D5BhhCe_MBrg--o-19" value="HTML Downloader multiple&amp;nbsp;&lt;div&gt;instances handling subset of urls; distribute the servers in different locations&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1763" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dUaV9D5BhhCe_MBrg--o-20" value="DNS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1890" width="120" height="60" as="geometry" />
